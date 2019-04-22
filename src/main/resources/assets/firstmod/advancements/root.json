@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "firstmod:ccx_block"
+        },
+        "title": {
+            "translate": "advancements.firstmod.root.title"
+        },
+        "description": {
+            "translate": "advancements.firstmod.root.description"
+        },
+		"background": "firstmod:textures/advancements/apple_master.png",
+		"show_toast": false,
+        "announce_to_chat": false,
+		"hidden": false
+    },
+    "criteria": {
+        "consumed_item": {
+            "trigger": "minecraft:consume_item"
+        }
+    }
+}

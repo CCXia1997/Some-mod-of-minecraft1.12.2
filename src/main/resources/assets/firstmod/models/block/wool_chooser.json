@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "firstmod:blocks/wool_chooser_side",
+        "front": "firstmod:blocks/wool_chooser_front",
+        "side": "firstmod:blocks/wool_chooser_side"
+    }
+}

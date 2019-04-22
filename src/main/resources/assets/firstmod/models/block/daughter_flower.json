@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "firstmod:blocks/daughter_flower"
+    }
+}

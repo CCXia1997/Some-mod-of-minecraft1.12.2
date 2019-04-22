@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "firstmod:blocks/number_block_5"
+    }
+}
+
+
+

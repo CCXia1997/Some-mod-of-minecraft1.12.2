@@ -1,0 +1,43 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+   "AXB",
+   "CXD",
+   "E#F"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "firstmod:ccx_ingot"
+    },
+	"A":{
+	  "item":"minecraft:dye",
+	  "data":1
+	},
+	"B":{
+	  "item":"minecraft:dye",
+	  "data":14
+	},
+	"C":{
+	  "item":"minecraft:dye",
+	  "data":11
+	},
+	"D":{
+	  "item":"minecraft:dye",
+	  "data":6
+	},
+	"E":{
+	  "item":"minecraft:dye",
+	  "data":4
+	},
+	"F":{
+	  "item":"minecraft:dye",
+	  "data":0
+	}
+  },
+  "result": {
+    "item": "firstmod:rubble"
+  }
+}

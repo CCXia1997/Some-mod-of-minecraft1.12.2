@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "firstmod:items/rubble"
+    },
+	"overrides": [
+        {
+            "predicate": {
+                "broken": 1
+            },
+            "model": "firstmod:item/broken_rubble"
+        }
+    ]
+}

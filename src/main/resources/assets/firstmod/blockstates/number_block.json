@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "number=0": {"model":  "firstmod:number_block_0" },
+		"number=1": {"model":  "firstmod:number_block_1" },
+		"number=2": {"model":  "firstmod:number_block_2" },
+		"number=3": {"model":  "firstmod:number_block_3" },
+		"number=4": {"model":  "firstmod:number_block_4" },
+		"number=5": {"model":  "firstmod:number_block_5" },
+		"number=6": {"model":  "firstmod:number_block_6" },
+		"number=7": {"model":  "firstmod:number_block_7" },
+		"number=8": {"model":  "firstmod:number_block_8" },
+		"number=9": {"model":  "firstmod:number_block_9" },
+		"number=10": {"model":  "firstmod:number_block_10" },
+		"number=11": {"model":  "firstmod:number_block_11" },
+		"number=12": {"model":  "firstmod:number_block_12" },
+		"number=13": {"model":  "firstmod:number_block_13" },
+		"number=14": {"model":  "firstmod:number_block_14" },
+		"number=15": {"model":  "firstmod:number_block_15" }
+    }
+}

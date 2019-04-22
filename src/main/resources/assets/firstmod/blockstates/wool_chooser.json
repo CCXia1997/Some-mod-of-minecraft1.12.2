@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "firstmod:wool_chooser" },
+        "facing=south": { "model": "firstmod:wool_chooser", "y": 180 },
+        "facing=west":  { "model": "firstmod:wool_chooser", "y": 270 },
+        "facing=east":  { "model": "firstmod:wool_chooser", "y": 90 }
+    }
+}

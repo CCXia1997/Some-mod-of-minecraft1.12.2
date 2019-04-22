@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "color=0": { "model": "firstmod:test_block_red" },
+		"color=1": {"model":"firstmod:test_block_orange"}
+    }
+}

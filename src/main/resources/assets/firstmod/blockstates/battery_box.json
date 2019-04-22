@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "firstmod:battery_box" }
+    }
+}
